@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=tcp:interviewtest4638.database.windows.net,1433;Initial Catalog=InterviewTask;Persist Security Info=False;User ID=byeghiazaryan;Password=Qwaszx111.;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
